@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @khee
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Spring and deep learning
+- 💞️ I’m looking to collaborate on projects involving Python and Java
