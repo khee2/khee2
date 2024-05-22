@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khee
+- 👋 Hi, I’m Keunghee Ro
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Spring and deep learning
-- 💞️ I’m looking to collaborate on projects involving Python and Java
+- 🌱 I’m currently learning Spring Boot and deep learning
+- 💞️ I’m looking to collaborate on projects involving Java and Python
