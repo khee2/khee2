@@ -2,17 +2,9 @@
 
 👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
 
-<a href="mailto:21keunghee@gmail.com">
-  <img src="https://github.com/user-attachments/assets/aaf00b30-5bcd-417b-b5e4-2cef8c9f71ae" alt="Gmail" width="3%">
-</a>
-
-<a href="https://www.linkedin.com/in/%EA%B2%BD%ED%9D%AC-%EB%85%B8-b83a8b2bb/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/821c2867-4d80-4e43-b572-1172816c45dd" alt="LinkedIn" width="3%">
-</a>
-
-<a href="mailto:bluet414@naver.com">
-  <img src="https://github.com/user-attachments/assets/436e5bee-c3ea-4cdd-ac2b-e210753cdc4a" alt="Naver Mail" width="3%">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21keunghee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B2%BD%ED%9D%AC-%EB%85%B8-b83a8b2bb/)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:bluet414@naver.com)
 
 </br>
 </br>
@@ -68,6 +60,10 @@
 </br>
 </br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414)](https://solved.ac/bluet414)
-
+<p align="center">
+    <a href="https://solved.ac/bluet414">
+       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414" alt="Solved.ac Profile width="40%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=khee2&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
+</p>
 </br>
