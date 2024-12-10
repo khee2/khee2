@@ -24,7 +24,7 @@
 ### 🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
 | 날짜 | 대회명 | 수상 내용 | 프로젝트 |
 |------|--------|-----------|----------|
-| 2024.11.20 | 제8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발·아이디어 공모전 | 🏅  **과학기술정보통신부장관상** | [🌱 Plog Project](https://github.com/Song-s-PaaSTA) |
+| 2024.11.20 | 제8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발·아이디어 공모전 | 🏅  **과학기술정보통신부장관상** | [🌱 Plog Project](https://github.com/Song-s-PaaSTA/Plog-Server) |
 | 2024.11.09 | 2024 DACOS&SOLUX 연합해커톤 | 🏅 **최우수상** | [✍️ ReadIT Project](https://github.com/Team4-ReadIT) |
 | 2024.01.31 | 2023학년도 「데이터 기반 교육혁신·개선 아이디어」 공모전 | 🏅 **최우수상** | 💪 비교과 역량강화 웹 서비스 기획 |
 
@@ -57,6 +57,8 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=khee2&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
 </p>
+
+</br>
 </br>
 
 👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
