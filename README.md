@@ -1,14 +1,5 @@
 # 𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼!
 
-👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21keunghee@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B2%BD%ED%9D%AC-%EB%85%B8-b83a8b2bb/)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:bluet414@naver.com)
-
-</br>
-</br>
-
 ### 🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
@@ -62,8 +53,15 @@
 
 <p align="center">
     <a href="https://solved.ac/bluet414">
-       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414" alt="Solved.ac Profile width="40%" />
+       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414" alt="Solved.ac Profile width="50%" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=khee2&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
 </p>
 </br>
+
+👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21keunghee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B2%BD%ED%9D%AC-%EB%85%B8-b83a8b2bb/)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:bluet414@naver.com)
+
