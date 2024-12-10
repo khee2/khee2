@@ -43,7 +43,7 @@
 |------------|------|------|-----------|
 | [Gift Moment](https://github.com/luckynode) | 2024.10~ | 🎁 생일 선물 펀딩 및 편지 아카이빙 서비스 | 🎨 **Frontend**: React, TypeScript |
 | [Plog](https://github.com/Song-s-PaaSTA/Plog-Server) | 2024.05 ~ 2024.11 | 🌱 지역 환경 개선을 위한 플로깅 루트 추천 서비스 | ⚙️ **Backend**: Spring Boot, MSA <br> ☁️ **Cloud**: NCloud Kubernetes Service |
-| [TourMate](https://github.com/korea-tour-mate-app) | 2024.03 ~ 2024.09 | ✈️ 외국인들을 위한 여행 경로 추천 서비스 | 🎨 **Frontend**: React Native, TypeScript |
+| [TourMate](https://github.com/korea-tour-mate-app) | 2024.03 ~ 2024.09 | ✈️ 외국인들을 위한 서울 여행 경로 추천 서비스 | 🎨 **Frontend**: React Native, TypeScript |
 | [GroShare](https://github.com/SafeNet-2024) | 2024.03 ~ 2024.06 | 🌿 1인 가구를 위한 식재료 교환 서비스 | ⚙️ **Backend**: Spring Boot, WebSocket |
 
 
