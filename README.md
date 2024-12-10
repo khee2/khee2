@@ -59,10 +59,10 @@
 | 프로젝트명 | 기간 | 설명 | 맡은 역할 및 기술 스택 |
 |------------|------|------|-----------|
 | [Gift Moment](https://github.com/luckynode) | 2024.10~ | 🎁 생일 선물 펀딩 및 편지 아카이빙 서비스 | 🎨 **Frontend**: React, TypeScript |
-| [Plog](https://github.com/Song-s-PaaSTA/Plog-Server) | 2024.05 ~ 2024.11 | 🌱 지역 환경 개선을 위한 플로깅 루트 추천 서비스 | ⚙️ **Backend**: Spring Boot, MSA <br> ☁️ **Cloud**: Naver Cloud Platform, Kubernetes |
+| [Plog](https://github.com/Song-s-PaaSTA/Plog-Server) | 2024.05 ~ 2024.11 | 🌱 지역 환경 개선을 위한 플로깅 루트 추천 서비스 | ⚙️ **Backend**: Spring Boot, MSA <br> ☁️ **Cloud**: NCloud Kubernetes Service |
 | [TourMate](https://github.com/korea-tour-mate-app) | 2024.03 ~ 2024.09 | ✈️ 외국인들을 위한 여행 경로 추천 서비스 | 🎨 **Frontend**: React Native, TypeScript |
-| [MidPoint](https://github.com/Solucitation) | 2024.03 ~ 2024.08 | 👥 만남 목적에 맞는 중간지점 찾기 서비스 | ⚙️ **Backend**: Spring Boot, Java |
-| [GroShare](https://github.com/SafeNet-2024) | 2024.03 ~ 2024.06 | 🌿 1인 가구를 위한 식재료 교환 서비스 | ⚙️ **Backend**: Spring Boot, Java, WebSocket |
+| [MidPoint](https://github.com/Solucitation) | 2024.03 ~ 2024.08 | 👥 만남 목적에 맞는 중간지점 찾기 서비스 | ⚙️ **Backend**: Spring Boot |
+| [GroShare](https://github.com/SafeNet-2024) | 2024.03 ~ 2024.06 | 🌿 1인 가구를 위한 식재료 교환 서비스 | ⚙️ **Backend**: Spring Boot, WebSocket |
 
 
 </br>
@@ -71,5 +71,3 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414)](https://solved.ac/bluet414)
 
 </br>
-
-
