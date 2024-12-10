@@ -10,6 +10,10 @@
   <img src="https://github.com/user-attachments/assets/821c2867-4d80-4e43-b572-1172816c45dd" alt="LinkedIn" width="3%">
 </a>
 
+<a href="mailto:bluet414@naver.com">
+  <img src="https://github.com/user-attachments/assets/436e5bee-c3ea-4cdd-ac2b-e210753cdc4a" alt="Naver Mail" width="3%">
+</a>
+
 </br>
 </br>
 
@@ -20,7 +24,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-### 🔧 𝗠𝗮𝗶𝗻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 🔧 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
