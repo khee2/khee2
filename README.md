@@ -1,11 +1,7 @@
 # 𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼!
 <a href="https://github.com/khee2/gitanimals">
-  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646866" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
 </a>
-<a href="https://github.com/khee2/gitanimals">
-  <img src="https://render.gitanimals.org/farms/khee2" alt="Gitanimals Farm" width="500"/>
-</a>
-
 
 ### 🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
@@ -26,10 +22,6 @@
 
 ### 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 **2021.03 ~ 현재** : 숙명여자대학교 컴퓨터과학전공 (학점: **4.23/4.5**) </br>
-
-<a href="https://github.com/khee2/gitanimals">
-  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
-</a>
 
 
 </br>
@@ -74,9 +66,8 @@
 </br>
 
 <a href="https://github.com/khee2/gitanimals">
-  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646867" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646866" width="1000" height="120"/>
 </a>
-
 
 👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
 
