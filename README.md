@@ -1,21 +1,37 @@
-# 𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼!
+<div align="center">
+  <h1>𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼! 🦊 </h1>
+<!--   <p>𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</p>
+</div> -->
+
+<div align="center">
+  <h3>🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  </p>
+
+  <h3>🔧 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  </p>
+</div>
+
 <a href="https://github.com/khee2/gitanimals">
   <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
 </a>
-
-### 🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-
-### 🔧 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+<div align="center">
+  <a href="https://github.com/khee2/gitanimals">
+    <img src="https://render.gitanimals.org/farms/khee2" alt="Gitanimals Farm" width="500"/>
+  </a>
+</div>
+</div>
 
 
 </br>
@@ -36,9 +52,10 @@
 </br>
 
 ### 🛠️ 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-📜 2024.06: 정보처리기사 </br>
-
-📜 2023.12: SQLD
+| 날짜 | 자격증명 | 발급처 |
+|------|--------|-----------|
+|2024.06|정보처리기사|한국산업인력공단|
+|2023.12|SQLD (SQL Developer)|한국데이터산업진흥원(K-DATA)|
 
 </br>
 
