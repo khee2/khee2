@@ -1,4 +1,11 @@
 # 𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼!
+<a href="https://github.com/khee2/gitanimals">
+  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646866" width="1000" height="120"/>
+</a>
+<a href="https://github.com/khee2/gitanimals">
+  <img src="https://render.gitanimals.org/farms/khee2" alt="Gitanimals Farm" width="500"/>
+</a>
+
 
 ### 🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
@@ -12,6 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 
 </br>
@@ -19,21 +27,26 @@
 ### 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 **2021.03 ~ 현재** : 숙명여자대학교 컴퓨터과학전공 (학점: **4.23/4.5**) </br>
 
+<a href="https://github.com/khee2/gitanimals">
+  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
+</a>
+
+
 </br>
 
 ### 🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
 | 날짜 | 대회명 | 수상 내용 | 프로젝트 |
 |------|--------|-----------|----------|
-| 2024.11.20 | 제8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발·아이디어 공모전 | 🏅  **과학기술정보통신부장관상** | [🌱 Plog Project](https://github.com/Song-s-PaaSTA/Plog-Server) |
-| 2024.11.09 | 2024 DACOS&SOLUX 연합해커톤 | 🏅 **최우수상** | [✍️ ReadIT Project](https://github.com/Team4-ReadIT) |
-| 2024.01.31 | 2023학년도 「데이터 기반 교육혁신·개선 아이디어」 공모전 | 🏅 **최우수상** | 💪 비교과 역량강화 웹 서비스 기획 |
+| 2024.11 | 제8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발·아이디어 공모전 | 🏅  **과학기술정보통신부장관상** | [🌱 Plog Project](https://github.com/Song-s-PaaSTA/Plog-Server) |
+| 2024.11 | 2024 DACOS&SOLUX 연합해커톤 | 🏅 **최우수상** | [✍️ ReadIT Project](https://github.com/Team4-ReadIT) |
+| 2024.01 | 2023학년도 「데이터 기반 교육혁신·개선 아이디어」 공모전 | 🏅 **최우수상** | 💪 비교과 역량강화 웹 서비스 기획 |
 
 </br>
 
 ### 🛠️ 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-📜 **2024.06.18**: **정보처리기사** </br>
+📜 2024.06: 정보처리기사 </br>
 
-📜 **2023.12.15**: **SQLD**
+📜 2023.12: SQLD
 
 </br>
 
@@ -59,6 +72,11 @@
 
 </br>
 </br>
+
+<a href="https://github.com/khee2/gitanimals">
+  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646867" width="1000" height="120"/>
+</a>
+
 
 👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
 
