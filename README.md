@@ -1,8 +1,6 @@
 <div align="center">
   <h1>𝗛𝗶, 𝗜'𝗺 𝗞𝗲𝘂𝗻𝗴𝗵𝗲𝗲 𝗥𝗼! 🦊 </h1>
   <p>"𝘐 𝘦𝘯𝘫𝘰𝘺 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘸𝘪𝘵𝘩 𝘚𝘱𝘳𝘪𝘯𝘨 𝘉𝘰𝘰𝘵 𝘢𝘯𝘥 𝘤𝘭𝘰𝘶𝘥 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴."</p>
-<!--   <p>𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</p>
-</div> -->
 
 <div align="center">
   <h3>🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</h3>
@@ -27,11 +25,7 @@
 <a href="https://github.com/khee2/gitanimals">
   <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
 </a>
-<div align="center">
-  <a href="https://github.com/khee2/gitanimals">
-    <img src="https://render.gitanimals.org/farms/khee2" alt="Gitanimals Farm" width="500"/>
-  </a>
-</div>
+
 </div>
 
 
