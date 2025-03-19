@@ -67,20 +67,6 @@
 </br>
 </br>
 
-<p align="center">
-    <a href="https://solved.ac/bluet414">
-       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluet414" alt="Solved.ac Profile width="50%" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=khee2&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
-</p>
-
-</br>
-</br>
-
-<a href="https://github.com/khee2/gitanimals">
-  <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646866" width="1000" height="120"/>
-</a>
-
 👇 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲! </br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21keunghee@gmail.com)
