@@ -23,9 +23,8 @@
 <a href="https://github.com/khee2/gitanimals">
   <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
 </a>
+</div>
 
-
-</br>
 
 ### 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 2021.03 ~ 현재: 숙명여자대학교 컴퓨터과학전공 (학점: **4.23/4.5**) </br>
