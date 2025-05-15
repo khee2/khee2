@@ -3,30 +3,26 @@
   <p>"𝘐 𝘦𝘯𝘫𝘰𝘺 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘸𝘪𝘵𝘩 𝘚𝘱𝘳𝘪𝘯𝘨 𝘉𝘰𝘰𝘵 𝘢𝘯𝘥 𝘤𝘭𝘰𝘶𝘥 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴."</p>
 
 <div align="center">
-  <h3>🌱 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  </p>
-
   <h3>🔧 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h3>
   <p>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
   </p>
+<!--   <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  </p> -->
 </div>
 
 <a href="https://github.com/khee2/gitanimals">
   <img src="https://render.gitanimals.org/lines/khee2?pet-id=654662671963646864" width="1000" height="120"/>
 </a>
-
-</div>
 
 
 </br>
@@ -56,12 +52,12 @@
 
 ### 🔥 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
-| 프로젝트명 | 기간 | 설명 | 맡은 역할 및 기술 스택 |
+| 프로젝트명 | 기간 | 설명 | 기술 스택 |
 |------------|------|------|-----------|
 | [Gift Moment](https://github.com/luckynode) | 2024.10~ | 🎁 생일 선물 펀딩 및 편지 아카이빙 서비스 | 🎨 **Frontend**: React, TypeScript |
-| [Plog](https://github.com/Song-s-PaaSTA/Plog-Server) | 2024.05 ~ 2024.11 | 🌱 지역 환경 개선을 위한 플로깅 루트 추천 서비스 | ⚙️ **Backend**: Spring Boot, MSA <br> ☁️ **Cloud**: NCloud Kubernetes Service |
+| [Plog](https://github.com/Song-s-PaaSTA) | 2024.05 ~ 2024.11 | 🌱 지역 환경 개선을 위한 플로깅 루트 추천 서비스 | ⚙️ **Backend**: Spring Boot, MSA <br> ☁️ **Cloud**: NCloud Kubernetes Service |
 | [TourMate](https://github.com/korea-tour-mate-app) | 2024.03 ~ 2024.09 | ✈️ 외국인들을 위한 서울 여행 경로 추천 서비스 | 🎨 **Frontend**: React Native, TypeScript |
-| [GroShare](https://github.com/SafeNet-2024) | 2024.03 ~ 2024.06 | 🌿 1인 가구를 위한 식재료 교환 서비스 | ⚙️ **Backend**: Spring Boot, WebSocket |
+| [GroShare](https://github.com/SafeNet-2024) | 2024.03 ~ 2024.06 | 🌿 1인 가구를 위한 식재료 교환 서비스 | ⚙️ **Backend**: Spring Boot |
 
 
 </br>
